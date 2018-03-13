@@ -1,0 +1,21 @@
+热门照片:test/hot 0
+团体照:test/group 0
+婚宴:test/married 0
+工厂:test/factory 0
+自拍:test/face 0
+公园:test/park 0 
+浮浅:test/diving 0
+游戏:test/game 0 
+明星:test/star 0
+星空:test/sky 0 
+山水照片:test/mountaion 0 
+夜空:test/sky 0
+极光:test/aura 0
+小埋:test/anima 0
+机甲骑士:test/gundam 0
+科比:test/kobe 0
+游戏主机:test/station 0
+细菌:test/bacterial 0
+小丑:test/clown 0
+
+

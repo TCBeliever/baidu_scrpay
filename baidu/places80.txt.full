@@ -1,0 +1,91 @@
+航站楼:airport_terminal 0
+停机坪:landing_field 1
+机舱:airplane_cabin 2
+游乐场:amusement_park 3
+冰场:skating_rink 4
+舞台:arena/performance 5
+艺术室:art_room 6
+流水线:assembly_line 7
+棒球场:baseball_field 8
+橄榄球场:football_field 9
+足球场:soccer_field 10
+排球场:volleyball_court 11
+高尔夫球场:golf_course 12
+田径场:athletic_field 13
+滑雪场:ski_slope 14
+篮球场:basketball_court 15
+篮球馆:basketball_court 15
+健身房:gymnasium 16
+保龄球馆:bowling_alley 17
+游泳池:swimming_pool 18
+拳击场:boxing_ring 19
+跑马场:racecourse 20
+田地:farm
+农场:farm_field 21
+果园:orchard
+菜园:vegetable_garden 22
+牧场:pasture 23
+乡村:countryside 24
+温室:greenhouse 25
+电视台:television_studio 26
+寺庙:temple 27
+亭子:pavilion 28
+塔:tower 29
+宫殿:palace 30
+教堂:church 31
+街道:street 32
+餐厅食堂:dining_room 33
+咖啡厅:coffee_shop 34
+厨房:kitchen 35
+广场:plaza 36
+实验室:laboratory 37
+酒吧:bar
+吧台:bar 38
+会议室:conference_room 39
+办公室:office 40
+医院:hospital 41
+售票处:ticket_booth 42
+露营地:campsite 43
+音乐工作室:music_studio 44
+电梯:elevator
+楼梯:staircase 45
+公园:garden
+花园:garden 46
+建筑工地:construction_site 47
+综合超市:general_store 48
+商店:specialized_shops 49
+集市:bazaar 50
+图书馆:library
+书店:bookstore 51
+教室:classroom 52
+海洋:ocean
+沙滩:beach 53
+建筑:building 54
+加油站:gas_station 55
+垃圾场:landfill 56
+阳台:balcony 57
+游戏室:recreation_room/ballroom 58
+舞厅:discotheque 59
+博物馆:museum 60
+沙漠:desert/sand 61
+漂流:raft 62
+树林:forest 63
+桥:bridge 64
+住宅:residential_neighborhood 65
+汽车展厅:auto_showroom 66
+河流:river
+湖泊:lake/ 67
+水族馆:aquarium 68
+宴会厅:banquet_hall 69
+卧室:bedchamber 70
+山:mountain 71
+站台:station/platform 72
+草地:lawn 73
+育儿室:nursery 74
+美容店:beauty_salon
+美发店:beauty_salon 75
+修理店:repair_shop 76
+雪屋:igloo
+冰雕:ice_engraving 77
+池塘:pond 78
+天空:sky 79

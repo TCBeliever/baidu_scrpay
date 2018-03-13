@@ -1,0 +1,12 @@
+动画:anima
+漫画:comic
+卡通:cartoon
+手绘:handdrafe
+日本动画:jp_anima
+国产动画:cn_anima
+欧美动画:us_anima
+幼儿漫画:child_comic
+幼儿卡通:child_cartoon
+幼儿动漫:child_anima
+绘本:drawbook
+
